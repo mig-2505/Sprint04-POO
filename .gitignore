@@ -1,20 +1,20 @@
-# IntelliJ IDEA
+# Maven
+target/
+
+# IDEs
 .idea/
 *.iml
+.vscode/
+.classpath
+.project
+.settings/
 
-# Compiled class files
-*.class
+# Segredos
+.env
 
 # Logs
 *.log
 
-# Package files
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-*.txt
-*.env
+# Sistema operacional
+.DS_Store
+Thumbs.db
